@@ -1,0 +1,19 @@
+# Archivos generados por TypeScript
+*.js
+*.js.map
+*.d.ts
+
+# Carpeta generada por el compilador TypeScript
+/dist
+
+# Carpeta generada por Node.js
+/node_modules
+
+# Archivo de configuración de TypeScript
+tsconfig.json
+
+# Archivo de configuración de VSCode
+.vscode
+
+# Archivo de variables de entorno
+.env
